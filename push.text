@@ -1,0 +1,23 @@
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cext
+hello my name is om tiwari
+git config --global user.emai "omtiwari23"
+   54  git config --global user.email "omtiwariv@gmail.com"
+   55  git config --list
+   56  which git
+   57  mkdir gitpush
+   58  cd gitpush
+   59  cat >> push.tex
+   60  ls
+   61  git init
+   62  git add .
+   63  git commit -m "first commit"
+   64  git status
+   65  git log
+   66  git remote add origin https://github.com/omtiwari23/gitpush.git
+   67  git push -u origin main
+   68  git show eebfcc2a0842474110cdafe28b4bb26725ac7eae
+   69  git remote add origin https://github.com/omtiwari23/gitpush.git
+   70  git push -u origin main
+   71  git push -u origin master
+   72  history
+
